@@ -57,6 +57,7 @@ Com esse projeto nós podemos listar, achar, cadastrar, alterar e excluir um liv
 
 - Execute o servidor usando Nodemon.
 - Certifique-se de que a API responde corretamente às requisições de listar, buscar, cadastrar e alterar livros.
+- Teste feito com a ajuda do programa Insomnia
 
 
 ![imagem](https://github.com/AlvaroAzevedoDev/Livros-API/blob/main/imgs/Imagem_1.png)
