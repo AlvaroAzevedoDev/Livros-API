@@ -50,7 +50,13 @@ Com esse projeto nós podemos listar, achar, cadastrar, alterar e excluir um liv
 - Crie uma rota e um controlador para excluir um livro por ID.
 - O controlador recebe o ID do livro a ser excluído e remove-o da lista.
 
+![imagem](https://github.com/AlvaroAzevedoDev/Livros-API/blob/main/imgs/Imagem_3.png)
+
+
 **Execução e Teste:**
 
 - Execute o servidor usando Nodemon.
 - Certifique-se de que a API responde corretamente às requisições de listar, buscar, cadastrar e alterar livros.
+
+
+![imagem](https://github.com/AlvaroAzevedoDev/Livros-API/blob/main/imgs/Imagem_1.png)
